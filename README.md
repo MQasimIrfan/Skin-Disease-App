@@ -8,14 +8,15 @@ Dataset:https://www.kaggle.com/datasets/riyaelizashaju/skin-disease-classificati
 https://mqasimirfan-skin-disease-app-app-j3eiog.streamlit.app/
 
 ## Classes
-Actinic keratosis
-Atopic Dermatitis
-Benign keratosis
-Dermatofibroma
-Melanocytic nevus
-Melanoma
-Squamous cell carcinoma
-Tinea Ringworm Candidiasis
+
+Actinic keratosis,
+Atopic Dermatitis,
+Benign keratosis,
+Dermatofibroma,
+Melanocytic nevus,
+Melanoma,
+Squamous cell carcinoma,
+Tinea Ringworm Candidiasis,
 Vascular lesion
 
 ## Features  
